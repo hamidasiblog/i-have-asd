@@ -1,0 +1,21 @@
+{
+  "name": "i-have-asd",
+  "interface": {
+    "displayName": "I Have ASD"
+  },
+  "plugins": [
+    {
+      "name": "i-have-asd",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hamidasiblog/i-have-asd.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

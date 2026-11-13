@@ -1,0 +1,6 @@
+{
+  "name": "i-have-asd",
+  "version": "0.1.0",
+  "description": "Shape output for an autistic reader: one fixed reply frame, a preview before anything happens, a fixed pattern for every change and topic switch, and literal, concrete wording.",
+  "contextFileName": "GEMINI.md"
+}

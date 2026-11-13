@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "i-have-asd",
+  "description": "Predictable, literal output shaping for autistic readers. Not medical advice.",
+  "owner": {
+    "name": "hamidasiblog"
+  },
+  "plugins": [
+    {
+      "name": "i-have-asd",
+      "description": "Predictable output for autistic readers: fixed frame, announced switches.",
+      "source": "./",
+      "category": "accessibility"
+    }
+  ]
+}

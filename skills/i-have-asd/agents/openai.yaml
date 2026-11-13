@@ -1,0 +1,7 @@
+interface:
+  display_name: "I Have ASD"
+  short_description: "Predictable output for autistic readers: fixed frame, announced switches"
+  default_prompt: "Use $i-have-asd to shape this response."
+
+policy:
+  allow_implicit_invocation: false

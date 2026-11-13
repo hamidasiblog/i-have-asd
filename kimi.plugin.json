@@ -1,0 +1,12 @@
+{
+  "name": "i-have-asd",
+  "version": "0.1.0",
+  "description": "Shape output for an autistic reader: one fixed reply frame, a preview before anything happens, a fixed pattern for every change and topic switch, and literal, concrete wording.",
+  "license": "MIT",
+  "homepage": "https://github.com/hamidasiblog/i-have-asd",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "I Have ASD",
+    "shortDescription": "Predictable output for autistic readers: fixed frame, announced switches"
+  }
+}

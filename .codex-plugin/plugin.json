@@ -1,0 +1,37 @@
+{
+  "name": "i-have-asd",
+  "version": "0.1.0",
+  "description": "Shape output for an autistic reader: one fixed reply frame, a preview before anything happens, a fixed pattern for every change and topic switch, and literal, concrete wording.",
+  "author": {
+    "name": "hamidasiblog",
+    "url": "https://github.com/hamidasiblog"
+  },
+  "homepage": "https://github.com/hamidasiblog/i-have-asd",
+  "repository": "https://github.com/hamidasiblog/i-have-asd",
+  "license": "MIT",
+  "keywords": [
+    "autism",
+    "asd",
+    "cognitive-accessibility",
+    "output-style",
+    "skills"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "I Have ASD",
+    "shortDescription": "Predictable output for autistic readers: fixed frame, announced switches",
+    "longDescription": "Shape output for an autistic reader: one fixed reply frame, a preview before anything happens, a fixed pattern for every change and topic switch, and literal, concrete wording.",
+    "developerName": "hamidasiblog",
+    "category": "Productivity",
+    "capabilities": [
+      "Instructions"
+    ],
+    "websiteURL": "https://github.com/hamidasiblog/i-have-asd",
+    "defaultPrompt": [
+      "Use i-have-asd for this task.",
+      "Tell me what will happen before you do it.",
+      "Review this response against the i-have-asd rules."
+    ],
+    "brandColor": "#2563EB"
+  }
+}
